@@ -1,0 +1,1 @@
+# string-inject-prototype
